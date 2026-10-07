@@ -1,0 +1,6 @@
+{
+  "name": "SoreAja - Background remove",
+  "description": "Client-side instant image background color remover with interactive dual-workspace canvas, precision eyedropper, real-time tolerance control, and transparent PNG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
